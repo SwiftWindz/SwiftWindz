@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy 🤠,
+### My name's Phil and I'm software engineering undergraduate at RIT.
 
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
