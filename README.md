@@ -17,7 +17,11 @@
 		this.caffeineLevel = 0.0;
 	}
 	
+	/**
+	*ingest caffeine
+	*/
 	public void drinkCoffee(){
+		//Overdose
 		if(caffeineLevel == 20.0){
 			System.exit(-1);
 		}
