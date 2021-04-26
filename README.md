@@ -1,12 +1,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/SwiftWindz?style=social)
-### Name: Phil Ganem
-### Pronouns: He/Him
-### Email: philthesoftdev@gmail.com 
+### 👨Name: Phil Ganem
+### 😃Pronouns: He/Him
+### 📧Email: philthesoftdev@gmail.com 
 ## Howdy 🤠
 My name's Phil and I'm software engineering undergraduate at RIT🐯.
-
+- I am current in my first year of college
 - I'm currently learning Rust🦀
-- 📧 Always down to colaborate on a project, feel free to shoot me an email to express intrest in working with me.
+- Always down to colaborate on a project, feel free to shoot me an email to express intrest in working with me.
  
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
