@@ -1,5 +1,5 @@
 [![Linkedin: Phil Ganem](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phil-ganem/ /)](https://www.linkedin.com/in/phil-ganem/)
-[![GitHub Phil](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/SwiftWindz)
+[![GitHub Phil](https://img.shields.io/github/followers/SwiftWindz?label=follow&style=social)](https://github.com/SwiftWindz)
 ### 👨Name: Phil Ganem
 ### 😃Pronouns: He/Him
 ### 📧Email: philthesoftdev@gmail.com 
