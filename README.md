@@ -2,7 +2,8 @@
 ### 👨Name: Phil Ganem
 ### 😃Pronouns: He/Him
 ### 📧Email: philthesoftdev@gmail.com 
-## Howdy 🤠
+###
+### Howdy 🤠
 My name's Phil and I'm software engineering undergraduate at RIT🐯.
 - I am current in my first year of college
 - I'm currently learning Rust🦀
