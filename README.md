@@ -5,7 +5,7 @@
 ### ☕BuyMeCoffee: https://www.buymeacoffee.com/swift 
 ##
 ### Howdy 🤠
-My name's Phil and I'm software engineering undergraduate at RIT🐯.
+My name's Phil and I'm software engineering undergraduate at RIT🐯. Welcome to my GitHub!
 - I am current in my first year of college
 - I'm currently learning, and becoming proficient, in Rust🦀 and Java☕
 - Always down to collaborate on a project, feel free to shoot me an email to express intrest in working with me.
