@@ -3,6 +3,7 @@
  public class Phil{
  	
 	private final String name, pronouns, email, LinkedIn, BuyMeCoffee;
+	private double caffeineLevel; 
 	
  	/**
 	*Default constructor for a software engineering student
@@ -13,7 +14,16 @@
 		this.email = "philthesoftdev@gmail.com";
 		this.LinkedIn = "https://www.linkedin.com/in/phil-ganem/";
  		this.BuyMeCoffee = "https://www.buymeacoffee.com/swift"
+		this.caffeineLevel = 0.0;
 	}
+	
+	public void drinkCoffee(){
+		if(caffeineLevel == 20.0){
+			System.exit(-1);
+		}
+		caffeineLevel += 1.0;
+	}
+	
  
  }
  ```
