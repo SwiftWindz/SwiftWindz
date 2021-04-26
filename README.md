@@ -1,4 +1,4 @@
-[![Linkedin: Phil Ganem](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phil-ganem/ /)](https://www.linkedin.com/in/phil-ganem/)
+[![Linkedin: Phil](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Phil](https://img.shields.io/github/followers/SwiftWindz?label=follow&style=social)](https://github.com/SwiftWindz)
 ### 👨Name: Phil Ganem
 ### 😃Pronouns: He/Him
