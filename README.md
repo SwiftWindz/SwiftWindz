@@ -1,6 +1,9 @@
-### Howdy 🤠,
-### My name's Phil and I'm software engineering undergraduate at RIT.
 ### Pronouns: He/Him
+##
+### Howdy 🤠,
+### My name's Phil and I'm software engineering undergraduate at RIT🐯.
+### -🌱 I'm currently learning Rust🦀 and Java☕
+### -📧 Always down to colaborate on a project, feel free to shoot me an email to express intrest in working with me.
 
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
