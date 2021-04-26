@@ -13,9 +13,12 @@ My name's Phil and I'm software engineering undergraduate at 🐯RIT🐯. Welcom
 - I am a huge fan of free educational resources for current and to-be programmers and would love to work on a related project
 - Always down to collaborate on a project, feel free to shoot me an email to express intrest in working with me.
 ```java
+ 
  public class Phil(){
- 
+ 	this.name = "Phil Ganem";
+	this.pronouns = "He/Him";
+	this.school = <a href="http://www.unb.br">University of Brasilia</a>;
  }
- 
+ ```
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
