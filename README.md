@@ -1,6 +1,7 @@
 [![GitHub Phil](https://img.shields.io/github/followers/SwiftWindz?label=follow&style=social)](https://github.com/SwiftWindz)
 ```java
  public class Phil{
+ 
  	/**
 	*Default constructor for a software engineer
 	*/
@@ -11,14 +12,9 @@
 		this.LinkedIn = "https://www.linkedin.com/in/phil-ganem/";
  		this.BuyMeCoffee = "https://www.buymeacoffee.com/swift"
 	}
+ 
  }
  ```
-### 👨Name: Phil Ganem
-### 😃Pronouns: He/Him
-### 📧Email: philthesoftdev@gmail.com 
-### 💻LinkedIn: https://www.linkedin.com/in/phil-ganem/ 
-### ☕BuyMeCoffee: https://www.buymeacoffee.com/swift 
-##
 ### 🤠 Howdy 
 My name's Phil and I'm software engineering undergraduate at 🐯RIT🐯. Welcome to my GitHub!
 - I am current in my first year of college
