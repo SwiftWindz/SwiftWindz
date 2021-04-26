@@ -2,6 +2,7 @@
 ### 👨Name: Phil Ganem
 ### 😃Pronouns: He/Him
 ### 📧Email: philthesoftdev@gmail.com 
+### 💻LinkedIn: https://www.linkedin.com/in/phil-ganem/ 
 ### ☕BuyMeCoffee: https://www.buymeacoffee.com/swift 
 ##
 ### Howdy 🤠
