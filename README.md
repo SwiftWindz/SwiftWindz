@@ -17,8 +17,8 @@
  
  }
  ```
- 
-### 🤠 Howdy 
+### Intro
+## 🤠 Howdy 
 My name's Phil and I'm software engineering undergraduate at 🐯RIT🐯. Welcome to my GitHub!
 - I am current in my first year of college
 - I'm currently learning, and becoming proficient, in Rust🦀 and Java☕
