@@ -28,7 +28,6 @@
 		caffeineLevel += 1.0;
 	}
 	
- 
  }
  ```
 ## Intro
