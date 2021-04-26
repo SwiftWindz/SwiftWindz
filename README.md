@@ -1,10 +1,11 @@
-[![GitHub Phil](https://img.shields.io/github/followers/SwiftWindz?label=follow&style=social)](https://github.com/SwiftWindz)
-###The Basics
+###The Basics🎆
 ```java
  public class Phil{
- 
+ 	
+	private final String name, pronouns, email, LinkedIn, BuyMeCoffee;
+	
  	/**
-	*Default constructor for a software engineer
+	*Default constructor for a software engineering student
 	*/
 	public Phil(){
  		this.name = "Phil Ganem";
