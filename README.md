@@ -1,4 +1,18 @@
 [![GitHub Phil](https://img.shields.io/github/followers/SwiftWindz?label=follow&style=social)](https://github.com/SwiftWindz)
+```java
+ public class Phil{
+ 	/**
+	*Default constructor for a software engineer
+	*/
+	public Phil(){
+ 		this.name = "Phil Ganem";
+		this.pronouns = "He/Him";
+		this.email = "philthesoftdev@gmail.com";
+		this.LinkedIn = "https://www.linkedin.com/in/phil-ganem/";
+ 		this.BuyMeCoffee = "https://www.buymeacoffee.com/swift"
+	}
+ }
+ ```
 ### 👨Name: Phil Ganem
 ### 😃Pronouns: He/Him
 ### 📧Email: philthesoftdev@gmail.com 
@@ -12,13 +26,6 @@ My name's Phil and I'm software engineering undergraduate at 🐯RIT🐯. Welcom
 - Currently, I'm looking for a neat open source project to support with my time.
 - I am a huge fan of free educational resources for current and to-be programmers and would love to work on a related project
 - Always down to collaborate on a project, feel free to shoot me an email to express intrest in working with me.
-```java
- 
- public class Phil(){
- 	this.name = "Phil Ganem";
-	this.pronouns = "He/Him";
-	this.school = <a href="http://www.unb.br">University of Brasilia</a>;
- }
- ```
+
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
