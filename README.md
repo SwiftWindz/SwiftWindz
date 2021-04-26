@@ -1,3 +1,4 @@
+[The Rust Programming Language (Covers Rust 2018).pdf](https://github.com/SwiftWindz/SwiftWindz/files/6378644/The.Rust.Programming.Language.Covers.Rust.2018.pdf)
 ### The Basics🎆
 ```java
  public class Phil{
