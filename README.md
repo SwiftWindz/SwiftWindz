@@ -1,10 +1,10 @@
+![GitHub followers](https://img.shields.io/github/followers/SwiftWindz?style=social)
 ### Pronouns: He/Him
 ##
 ### Howdy 🤠,
 ### My name's Phil and I'm software engineering undergraduate at RIT🐯.
 ### -I'm currently learning Rust🦀
 ### -📧 Always down to colaborate on a project, feel free to shoot me an email to express intrest in working with me.
-https://img.shields.io/badge/Language-Rust-orange
 
 <!--
 **SwiftWindz/SwiftWindz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
