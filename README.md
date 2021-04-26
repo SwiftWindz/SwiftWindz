@@ -19,7 +19,7 @@
  ```
 ## Intro
 ### 🤠 Howdy 
-My name's Phil and I'm software engineering undergraduate at 🐯RIT🐯. Welcome to my GitHub!
+My name's Phil and I'm software engineering undergraduate at 🐯<a href="https://www.rit.edu/">RIT</a>🐯. Welcome to my GitHub!
 - I am current in my first year of college
 - I'm currently learning, and becoming proficient, in Rust🦀 and Java☕
 - Currently, I'm looking for a neat open source project to support with my time.
