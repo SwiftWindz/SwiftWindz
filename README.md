@@ -34,7 +34,7 @@
 ### 🤠 Howdy 
 My name's Phil and I'm software engineering undergraduate at 🐯<a href="https://www.rit.edu/">RIT</a>🐯. Welcome to my GitHub!
 - I am current in my second year of college
-- I'm currently learning, and becoming proficient, in Rust🦀 and Java☕
+- I'm currently learning, and becoming proficient in, Rust🦀 and Java☕
 - Currently, I'm looking for a neat open source project to support with my time and skills.
 - I am a huge fan of free educational resources for current and to-be programmers and would love to work on a related project
 - Always down to collaborate on a project, feel free to shoot me an <a href="mailto:philthesoftdev@gmail.com">email</a> to express intrest in working with me.
