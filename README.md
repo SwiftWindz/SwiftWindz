@@ -32,16 +32,16 @@ public class Phil {
 
 }
  ```
-#Intro
-##🤠 Howdy
+# Intro
+## 🤠 Howdy
 My name's Phil, and I'm a software engineer based in Rochester, NY. Welcome to my GitHub!
 
-🐯 Graduated from <a href="https://www.rit.edu/">RIT</a> in 2025 with a BS in Software Engineering
-💼 Currently a Software Engineer II at Paychex, where I work on software quality
-🌱 Always looking for a neat open source project to support with my time and skills
-📚 Big fan of free educational resources for current and future programmers, and I'd love to work on a related project
-🤝 Always down to collaborate! Shoot me an <a href="mailto:philthesoftdev@gmail.com">email</a> if you're interested in working together
-🌐 Check out more of my work at <a href="https://philganem.com">philganem.com</a>
+* 🐯 Graduated from <a href="https://www.rit.edu/">RIT</a> in 2025 with a BS in Software Engineering
+* 💼 Currently a Software Engineer II at Paychex, where I work on software quality
+* 🌱 Always looking for a neat open source project to support with my time and skills
+* 📚 Big fan of free educational resources for current and future programmers, and I'd love to work on a related project
+* 🤝 Always down to collaborate! Shoot me an <a href="mailto:philthesoftdev@gmail.com">email</a> if you're interested in working together
+* 🌐 Check out more of my work at <a href="https://philganem.com">philganem.com</a>
 
 
 
