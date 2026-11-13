@@ -11,7 +11,6 @@ public class Phil {
     public Phil() {
         this.name = "Phil Ganem";
         this.pronouns = "He/Him";
-        this.title = "Software Engineer II @ Paychex";
         this.email = "philthesoftdev@gmail.com";
         this.website = "https://philganem.com";
         this.LinkedIn = "https://www.linkedin.com/in/phil-ganem/";
